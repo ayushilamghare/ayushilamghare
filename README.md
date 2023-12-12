@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushi Lamghare</h1>
-<h3 align="center">As a highly motivated individual, I am eager to join the on organization. With proficiency in C, C++, Core Java, Python, SQL, HTML, CSS, and Flutter, I am prepared to contribute actively to a dynamic work environment. Eager to learn and grow, I am committed to leveraging my technical skills to enhance the success of the team and contribute to Organization's goals.</h3>
-
+<h3 align="center">As a highly motivated individual. With proficiency in C, C++, Core Java, Python, SQL, HTML, CSS, and Flutter, I am prepared to contribute actively to a dynamic work environment. Eager to learn and grow, I am committed to leveraging my technical skills to enhance the success of the team and contribute to Organization's goals.</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushilamghare&label=Profile%20views&color=0e75b6&style=flat" alt="ayushilamghare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushilamghare" alt="ayushilamghare" /></a> </p>
