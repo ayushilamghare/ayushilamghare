@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi Lamghare</h1>
 <h3 align="center">As a highly motivated individual. With proficiency in C, C++, Core Java, Python, SQL, HTML, CSS, React, Tailwind CSS, Node.js, Express.js, Mongoose, and MongoDB, I am prepared to contribute actively to a dynamic work environment. I'm eager to learn and grow, and I am committed to using my technical skills to help the team succeed and support the organization's goals.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-<p align="left"> <img src="" alt="ayushilamghare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushilamghare&label=Profile%20views&color=0e75b6&style=flat" alt="ayushilamghare" /> </p>
 
 
 - 🌱 I’m currently learning *React*
